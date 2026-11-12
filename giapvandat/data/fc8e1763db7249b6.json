@@ -1,0 +1,63 @@
+{
+  "success": true,
+  "data": {
+    "websiteId": "fc8e1763db7249b6",
+    "productType": "photobouquet",
+    "configVersion": 1,
+    "enableRain": true,
+    "enableLetter": true,
+    "bouquetImages": [
+      "/imgnew/1794494302263_4727738334538025247_4727738334538025247_346082eee1a1845fcaad38fc94cb09da.jpg",
+      "/imgnew/1794494302275_4727738334538025247_4727738334538025247_b43887c403cfd6590d42caffc74b4168.jpg",
+      "/imgnew/1794494302283_4727738334538025247_4727738334538025247_2e78195f082056873d7e313f288e666c.jpg",
+      "/imgnew/1794494302290_4727738334538025247_4727738334538025247_39a7e0cade427c525fe74991560b479c.jpg",
+      "/imgnew/1794494302297_4727738334538025247_4727738334538025247_8a1db2372bc528744b6d30b591f6369a.jpg",
+      "/imgnew/1794494302302_4727738334538025247_4727738334538025247_ba73d39993525c9c8c89f0473bae69b1.jpg"
+    ],
+    "bouquetCutouts": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "flyingTexts": [
+      "LÊ THỊ THU KIỀU 💗",
+      "ANH YÊU EM",
+      "Anh hứa sẽ không bao giờ để em buồn",
+      "Sẽ không để em thua thiệt với một ai😊",
+      "Chúc em luôn yêu đời",
+      "Anh luôn luôn yêu em",
+      "Anh sẽ không bao giờ bỏ em",
+      "💗💗💗💗💗💗💗",
+      "Anh sẽ bảo vệ em trọn đời",
+      "Anh sẽ không bao giờ bỏ rơi em"
+    ],
+    "flyingImages": [
+      "/imgnew/1794494302263_4727738334538025247_4727738334538025247_346082eee1a1845fcaad38fc94cb09da.jpg",
+      "/imgnew/1794494302275_4727738334538025247_4727738334538025247_b43887c403cfd6590d42caffc74b4168.jpg",
+      "/imgnew/1794494302283_4727738334538025247_4727738334538025247_2e78195f082056873d7e313f288e666c.jpg",
+      "/imgnew/1794494302290_4727738334538025247_4727738334538025247_39a7e0cade427c525fe74991560b479c.jpg",
+      "/imgnew/1794494302297_4727738334538025247_4727738334538025247_8a1db2372bc528744b6d30b591f6369a.jpg",
+      "/imgnew/1794494302302_4727738334538025247_4727738334538025247_ba73d39993525c9c8c89f0473bae69b1.jpg",
+      "/imgnew/1794494302306_4727738334538025247_4727738334538025247_62cfb6203774ba999d4839f92724b8b2.jpg",
+      "/imgnew/1794494302311_4727738334538025247_4727738334538025247_5d8ec9dfec9d8b75d2080c71b329be25.jpg"
+    ],
+    "letter": {
+      "text": "LÊ THỊ THU KIỀU 💗\nANH YÊU EM\nAnh hứa sẽ không bao giờ để em buồn\nSẽ không để em thua thiệt với một ai😊\nChúc em luôn yêu đời\nAnh luôn luôn yêu em\nAnh sẽ không bao giờ bỏ em\n💗💗💗💗💗💗💗\nAnh sẽ bảo vệ em trọn đời\nAnh sẽ không bao giờ bỏ rơi em",
+      "photo": "/imgnew/1794494302263_4727738334538025247_4727738334538025247_346082eee1a1845fcaad38fc94cb09da.jpg",
+      "envelope": {
+        "topLine": "Dành tặng em",
+        "headline": "Thu Kiều",
+        "bottomLine": "Anh yêu em"
+      }
+    },
+    "bgMusic": "/cdn_media/audio-mv9ff9kg-7edf2bd9.mp3",
+    "palette": "hongdon",
+    "flyingHearts": true,
+    "expiresAt": null,
+    "createdAt": "2026-10-15T10:59:26.590Z",
+    "showWatermark": false
+  }
+}
